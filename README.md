@@ -14,7 +14,7 @@ See video:
 [https://rutube.ru/video/935ba6de4e884dab8a5fe28f9e096c3b/](https://rutube.ru/video/935ba6de4e884dab8a5fe28f9e096c3b/)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
-### [https://www.patreon.com/pmaxus](https://www.patreon.com/pmaxus)
+### [https://patreon.com/pmaxus](https://patreon.com/pmaxus)
 
 ## Installation
 Soon

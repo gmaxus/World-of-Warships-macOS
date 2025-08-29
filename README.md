@@ -7,8 +7,11 @@ This wrapper allows you to play World of Warships without virtual Windows in 1 c
 See video:
 
 [![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://www.youtube.com/watch?v=5n5OVsOVg2Y)
+[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/935ba6de4e884dab8a5fe28f9e096c3b/)
 
 [https://youtu.be/5n5OVsOVg2Y](https://www.youtube.com/watch?v=5n5OVsOVg2Y)
+
+[https://rutube.ru/video/935ba6de4e884dab8a5fe28f9e096c3b/](https://rutube.ru/video/935ba6de4e884dab8a5fe28f9e096c3b/)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 ### [https://www.patreon.com/pmaxus](https://www.patreon.com/pmaxus)

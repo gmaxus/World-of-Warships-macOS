@@ -8,7 +8,7 @@ See video:
 
 [![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://www.youtube.com/watch?v=5n5OVsOVg2Y)
 
-[https://youtu.be/5n5OVsOVg2Y](https://www.youtube.com/watch?v=SjnLMt_6Ow4)
+[https://youtu.be/5n5OVsOVg2Y](https://www.youtube.com/watch?v=5n5OVsOVg2Y)
 
 ### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
 ### [https://www.patreon.com/pmaxus](https://www.patreon.com/pmaxus)

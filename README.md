@@ -2,7 +2,7 @@
 
 This wrapper allows you to play World of Warships without virtual Windows in 1 click on macOS with Apple silicon or Intel processor.
 
-[![Yotube](https://img.youtube.com/vi/SpoIFFmQlNI/0.jpg)](https://youtu.be/SpoIFFmQlNI)
+[![Yotube](https://img.youtube.com/vi/HRmFdA_R68s/sddefault.jpg)](https://youtu.be/SpoIFFmQlNI)
 
 See video:
 

@@ -23,8 +23,7 @@ https://git.thisismypage.ru/download/NgHNkVW6kJj8SA21Hxl6V7hUqA1WQxCGb28L53oJ2y6
 
 ## My Boosty
 
-I continue developing this project thanks to your financial support.  
-If the support stops, the project will die too.
+I am working on this project thanks to your financial support. If it stops, the project will die.
 
 If you'd like to thank me for the work I've done:
 

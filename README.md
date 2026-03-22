@@ -1,14 +1,72 @@
 # World of Warships on macOS
 
-This wrapper allows you to play World of Warships without virtual Windows in 1 click on macOS with Apple silicon or Intel processor.
-
-[![Yotube](https://img.youtube.com/vi/HRmFdA_R68s/sddefault.jpg)](https://youtu.be/HRmFdA_R68s)
+This wrapper allows you to play World of Warships without virtual Windows in 1 click on macOS with Apple silicon.
 
 See video:
 
-[![Yotube](https://www.youtube.com/s/desktop/f717390d/img/logos/favicon_144x144.png)](https://youtu.be/HRmFdA_R68s)
-[![Rutube](https://static.rutube.ru/static/img/favicon-icons/v3/icon.svg)](https://rutube.ru/video/4780cc8bc154db4a00a8314c19386f61/)
+#### [YouTube](https://youtu.be/s99zfz0Hwbg)
+
+#### [Rutube](https://rutube.ru/video/7c537d2663163dce09772ade7b97a108/)
 
 ## Installation
-The project is currently in beta testing and is only available on Boosty
-### [https://boosty.to/bmaxus](https://boosty.to/bmaxus)
+``` text
+https://git.thisismypage.ru/download/NgHNkVW6kJj8SA21Hxl6V7hUqA1WQxCGb28L53oJ2y6ETdguJ8S6vRC544xakcia
+```
+
+## Current Versions
+
+| Description                                          | Version | Distribution |
+|------------------------------------------------------|:-------:|:------------:|
+| Public                                               |   1.2   | GitHub       |
+| With working mouse wheel (zoom / scrolling)          |   1.2   | Boosty       |
+
+## My Boosty
+
+I continue developing this project thanks to your financial support.  
+If the support stops, the project will die too.
+
+If you'd like to thank me for the work I've done:
+
+**CloudTips:** https://pay.cloudtips.ru/p/a89f9537
+
+Additional paid content is also available on Boosty:  
+**https://boosty.to/bmaxus**
+
+<details>
+  <summary><b>Why the project needs sponsorship</b></summary>
+
+**Daily project monitoring**
+* Checking all platforms (AppsTorrent, Telegram, YouTube, etc.) to solve user issues
+
+**Finding new solutions to improve the build**  
+* Fixed zoom event not triggering
+* Automatic transfer of the game from the old build to the new one
+
+**Video production**  
+* Huge number of takes  
+* Screen & audio recording software  
+* Editing  
+* Uploading to video platforms
+
+**Providing technical support to all users**  
+* on AppsTorrent  
+* Telegram  
+* on Pikabu  
+* YouTube  
+* Rutube
+
+**Creating the installer**  
+* Preparing texts, images, and screenshots  
+* Developing and testing scripts  
+* Testing new builds and collecting feedback from beta testers
+
+**Building the assembly itself**  
+* Just one line, but it's the most important one
+
+**Organizing and paying for distribution hosting**  
+* Domain  
+* VPS hosting  
+* Writing custom distribution software
+
+**All of this work is done so that you can simply double-click the icon and everything just works.**
+</details>

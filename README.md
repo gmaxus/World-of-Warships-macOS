@@ -9,6 +9,7 @@ See video:
 #### [Rutube](https://rutube.ru/video/7c537d2663163dce09772ade7b97a108/)
 
 ## Installation
+Download and follow the installer instructions
 ``` text
 https://git.thisismypage.ru/download/NgHNkVW6kJj8SA21Hxl6V7hUqA1WQxCGb28L53oJ2y6ETdguJ8S6vRC544xakcia
 ```

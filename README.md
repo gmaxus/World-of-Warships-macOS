@@ -11,7 +11,7 @@ See video:
 ## Installation
 Download and follow the installer instructions
 ``` text
-https://git.thisismypage.ru/download/NgHNkVW6kJj8SA21Hxl6V7hUqA1WQxCGb28L53oJ2y6ETdguJ8S6vRC544xakcia
+http://git.thisismypage.ru/download/yTSj7jbJ3dRgiekQsDM5Dnra0890dbxxM1j5CNGn554dEw5i4liajJdSKDocFVVv
 ```
 
 ## Current Versions

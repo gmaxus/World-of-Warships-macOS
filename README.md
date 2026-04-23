@@ -13,6 +13,8 @@ Download and follow the installer instructions
 ``` text
 http://git.thisismypage.ru/download/yTSj7jbJ3dRgiekQsDM5Dnra0890dbxxM1j5CNGn554dEw5i4liajJdSKDocFVVv
 ```
+You can [download](https://raw.github.com/gmaxus/Mir-tankov-macOS/main/img/lgc-error.jpg) the Instruction separately (they will appear after installation)
+
 
 ## Current Versions
 

